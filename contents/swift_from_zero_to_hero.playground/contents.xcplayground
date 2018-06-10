@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<playground version='6.0' target-platform='ios' display-mode='rendered' last-migration='0800'>
+    <pages>
+        <page name='00-00_toc'/>
+        <page name='01-01-quick_start'/>
+        <page name='01-02-formatowanie_dokumentacji'/>
+        <page name='01-03-anatomia_placu_zabaw'/>
+        <page name='01-04-zaleznosci'/>
+        <page name='01-05-wyswietlanie-wlasnego-widoku'/>
+        <page name='02-01-typy_referencyjne_i_wartosciowe'/>
+        <page name='02-02_mutowalnosc'/>
+        <page name='02-03_definiowanie_typow_i_aliasow'/>
+        <page name='02-04_opoznienie_przypisania_wartosci_oraz_opionale'/>
+        <page name='03-01_unicode'/>
+        <page name='03_02_stringi'/>
+        <page name='04_01_Tablice'/>
+        <page name='04_02_Slowniki'/>
+        <page name='04_03_Sety'/>
+        <page name='04_04_Tuplety_Krotki'/>
+        <page name='05_01_operatory'/>
+        <page name='06_01_for_for_in'/>
+        <page name='06_02_while_if_else'/>
+        <page name='06_03_switch_if_for_case'/>
+        <page name='06_04_defer'/>
+        <page name='06_05_optional_chaining'/>
+        <page name='07_01_funkcje_definjowanie'/>
+        <page name='07_02_wejsciowe_wyjsciowe_parametry'/>
+        <page name='07_03_currying_rozwijanie_funkcji'/>
+        <page name='07_04_obsluga_bledow'/>
+        <page name='07_05_operatory'/>
+        <page name='07_06_bloki'/>
+        <page name='08_01_klasy_struktury_enumeracje'/>
+        <page name='08_02_Klasy'/>
+        <page name='08_03_retain_cycle'/>
+        <page name='08_04_Struktury'/>
+        <page name='08_05_enumeracje'/>
+        <page name='09_01_Protokoly'/>
+        <page name='10_10_Dziedziczenie'/>
+        <page name='10_11_Kategorie_Rozszerzenia'/>
+        <page name='11_01_Generyki'/>
+        <page name='12_00_Access_Control'/>
+        <page name='100-02_copy_on_right'/>
+        <page name='100-03_UI_TraitCollection'/>
+        <page name='100-04_Swift_Phantom_Types'/>
+        <page name='900-00-tips_and_tricks'/>
+        <page name='900-01-asynchroniczny_plac_zabaw'/>
+        <page name='999-99-ciag_dalszy_nastapi'/>
+    </pages>
+</playground>
