@@ -1,5 +1,5 @@
 //:[ToC](00-00_toc) | [Tips and Tricks](900-00-tips_and_tricks) | [Previous](@previous) | [Next](@next)
-//:> ## Wyświetlanie wlasnego widoku
+//:> ## Live Preview
 /*:
 Czasami chcemy wyświetlić jakiś widok, który będzie pełnił role _sceny_. Ten eksta widok będzie widoczny po włączeniu _assistent editora_.
 */

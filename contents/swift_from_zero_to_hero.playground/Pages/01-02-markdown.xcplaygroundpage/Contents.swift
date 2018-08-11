@@ -1,5 +1,5 @@
 //:[ToC](00-00_toc) | [Tips and Tricks](900-00-tips_and_tricks) | [Previous](@previous) | [Next](@next)
-//:> ## Formatowanie Dokumentacji
+//:> ## Markdown
 //:> [Dokumentacja do dokumentacji](https://developer.apple.com/library/ios/documentation/Xcode/Reference/xcode_markup_formatting_ref/index.html)
 
 //: ## Rozdzielacze

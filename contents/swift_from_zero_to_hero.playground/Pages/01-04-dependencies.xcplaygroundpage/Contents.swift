@@ -1,5 +1,5 @@
 //:[Spis Treści](00-00_ToC) | [Tips and Tricks](900-00-tips_and_tricks) | [Previous](@previous) | [Next](@next)
-//:> ## Dodawanie zależności
+//:> ## Dependencies
 import Foundation
 //:> Wszystko co wrzucimy do folderu **Sources** jest dostępne w playgroundzie.
 
