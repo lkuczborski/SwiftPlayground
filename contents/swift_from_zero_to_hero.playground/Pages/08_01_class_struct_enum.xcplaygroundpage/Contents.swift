@@ -1,5 +1,5 @@
 //:[ToC](00-00_toc) | [Tips and Tricks](900-00-tips_and_tricks) | [Previous](@previous) | [Next](@next)
-//:## Klasy, Struktury, Enumeracje
+//:## What's a Class, Struct, Enumeration
 
 /*:
  ### [Klasy i Struktury](https://developer.apple.com/library/ios/documentation/Swift/Conceptual/Swift_Programming_Language/ClassesAndStructures.html)

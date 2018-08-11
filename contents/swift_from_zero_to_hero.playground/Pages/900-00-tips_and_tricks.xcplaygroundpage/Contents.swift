@@ -1,8 +1,8 @@
 //:[ToC](00-00_toc) | [Tips and Tricks](900-00-tips_and_tricks) | [Previous](@previous) | [Next](@next)
-//:> ## Tipsy i Triksy -- Spis Treści
+//:> ## Tipsy and Tricks - TOC
 
 /*:
-* ## [Asynchroniczne Wywołanie Kodu W Placu Zabaw](900-01-asynchroniczny_plac_zabaw)
+* ## [Asynchronus Code Execution In Playground](900-01-asyc_playground)
 */
 
 //:[ToC](00-00_toc) | [Tips and Tricks](900-00-tips_and_tricks) | [Previous](@previous) | [Next](@next)

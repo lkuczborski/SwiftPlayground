@@ -1,6 +1,6 @@
 //:[ToC](00-00_toc) | [Tips and Tricks](900-00-tips_and_tricks) | [Previous](@previous) | [Next](@next)
 /*:
-## Enumeracje [dokumentacja](https://developer.apple.com/library/ios/documentation/Swift/Conceptual/Swift_Programming_Language/Enumerations.html)
+## Enumeration [dokumentacja](https://developer.apple.com/library/ios/documentation/Swift/Conceptual/Swift_Programming_Language/Enumerations.html)
 W Swift **enumeracje** to dużo bardziej uzyteczny i funkcjonalny typ niż w innych językach (C/ObjC). Dzięki nim możemy grupować powiązane ze sobą wartości (kierunki świata, zestawy kolorów, błędy HTTP etc.). Każda z tych wewnętrznych nazwanych wartości nosi nazwę "członek" (ang. member) 😎. Ponieważ **są typem** wartościowym to są przekazywane przez kopie.
 
 Enumeracje **mają**:

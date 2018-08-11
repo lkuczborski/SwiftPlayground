@@ -23,54 +23,53 @@
 * ## [Set](04_03_set)
 * ## [Tuple](04_04_tuple)
 
-> # Chapter 5 - Operatory
-* ## [Operatory (arytmetyczne, porównanie, rzutowanie, zakresy)](05_01_operatory)
+> # Chapter 5 - Operators
+* ## [Operators](05_01_operators)
 
-> # Chapter 6 - Przepływ Sterowania
+> # Chapter 6 - Control Flow
 * ## [For oraz For In / Break Continue / Do](06_01_for_for_in)
 * ## [While / Repeat While / If / If Else / If Let / Guard](06_02_while_if_else)
 * ## [Switch / If Case oraz For Case / Optional Binding / Optional Pattern Matching](06_03_switch_if_for_case)
 * ## [Defer](06_04_defer)
 * ## [Optional Chaining](06_05_optional_chaining)
 
-> # Chapter 7 - Funkcje i Bloki (Closures/Lambdy/Funkcje Anonimowe)
-* ## [Definiowanie i Wywoływanie Funkcji / Przeciążanie Funkcji](07_01_funkcje_definjowanie)
-* ## [In-Out, Przekazywanie Typów Referencyjnych, Przekazywanie/Zwracanie Funkcji, Zagnieżdzone Funkcje](07_02_wejsciowe_wyjsciowe_parametry)
-* ## [Currying / Rozwijanie Funkcji](07_03_currying_rozwijanie_funkcji)
-* ## [Obsługa błędów](07_04_obsluga_bledow)
+> # Chapter 7 - Function / Closure / Anonnymouse Function
+* ## [Functions](07_01_functions)
+* ## [Passing Values / Inout](07_02_function_parameters)
+* ## [Currying](07_03_currying)
+* ## [Error handeling](07_04_error_handeling)
 * ## [Operatory](07_05_operatory)
-* ## [Bloki / Lambdy / Funkcje Anonimowe](07_06_bloki)
+* ## [Closure / Anonymouse Function](07_06_closure)
 
-> # Chapter 8 - Klasy, Struktury, Enumeracje
-* ## [Czym są i kiedy uzywać Klasy, Struktury lub Enumeracji](08_01_klasy_struktury_enumeracje)
-* ## [Klasy](08_02_Klasy)
-* ## [Cykliczne Referencje / Retain Cycle](08_03_retain_cycle)
-* ## [Struktury](08_04_Struktury)
-* ## [Enumeracje](08_05_enumeracje)
+> # Chapter 8 - Class, Structure, Enumeration
+* ## [What's a Class, Struct, Enumeration](08_01_class_struct_enum)
+* ## [Class](08_02_class)
+* ## [Retain Cycle](08_03_retain_cycle)
+* ## [Structure](08_04_structure)
+* ## [Enumeration](08_05_enumeration)
 
-> # Chapter 9 - Protokoły / Interfejsy
-* ## [Protokoły](09_01_Protokoly)
+> # Chapter 9 - Protocols
+* ## [Protocols](09_01_protocols)
 
-> # Chapter 10 - Poszerzanie Funkcjonalności - Dziedziczenie, Kategorie/Rozszerzenia
-* ## [Dziedziczenie / Nadpisywanie / Zapobieganie Nadpisywaniu Metod i Właściwości](10_10_Dziedziczenie)
-* ## [Rozszerzenia / Kategorie](10_11_Kategorie_Rozszerzenia)
+> # Chapter 10 - Inheritence / Extensions
+* ## [Inheritence](10_10_inheritence)
+* ## [Extensions](10_11_extensions)
 
-> # Chapter 11 - Generyki
-* ## [Praca z Typami Generycznymi](11_01_Generyki)
+> # Chapter 11 - Generics
+* ## [Working with generics](11_01_generics)
 
 > # Chapter 12 - Access Control
 * ## [Access Control](12_00_Access_Control)
 
 */
 /*:
-> # Dodatki
+> # Appendix
 */
 /*:
-# Appendix
 * ## [Copy on Write](100-02_copy_on_right)
 * ## [UI Trait Collection](100-03_UI_TraitCollection)
 * ## [Swift Phantom Type](100-04_Swift_Phantom_Types)
 ---
-# [Tipsy i Trisky -- Spis Treści](900-00-tips_and_tricks)
+# [Tipsy and Tricks - TOC](900-00-tips_and_tricks)
 */
 //: [Next](@next)

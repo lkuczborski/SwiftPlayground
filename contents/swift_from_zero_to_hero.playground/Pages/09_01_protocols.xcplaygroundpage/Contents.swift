@@ -1,5 +1,5 @@
 //:[ToC](00-00_toc) | [Tips and Tricks](900-00-tips_and_tricks) | [Previous](@previous) | [Next](@next)
-//: ## [Protokoły](https://developer.apple.com/library/ios/documentation/Swift/Conceptual/Swift_Programming_Language/Protocols.html)
+//: ## [Protocols](https://developer.apple.com/library/ios/documentation/Swift/Conceptual/Swift_Programming_Language/Protocols.html)
 /*:
 Najłatwiej myśleć o protokołach jak o kontrakcie zawierającym wymagania, które adoptujący typ (struktura/klasa/typ prosty) "obiecuje" spełnić. Jeżeli taka sytuacja nastąpi to mówimy, że dany tym implementuje dany protokół.
 
