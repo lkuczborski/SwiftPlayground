@@ -1,7 +1,7 @@
 //:[ToC](00-00_toc) | [Tips and Tricks](900-00-tips_and_tricks) | [Previous](@previous) | [Next](@next)
-//:> ## Opóźnienie przypisania wartości do zmiennej oraz Optionale
+//:> ## Late Initialization and Optionals
 import Foundation
-//: ## Opóźnienie przypisania wartości do zmiennej
+//: ## Late Initialization
 //: Można zadeklarować zmienną aby była jakiegoś typu natomiast przypisać jej wartość póżniej.
 
 var cytat: String

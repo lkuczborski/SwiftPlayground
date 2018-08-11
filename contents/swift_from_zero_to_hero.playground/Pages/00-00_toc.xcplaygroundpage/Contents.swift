@@ -8,14 +8,14 @@
 * ## [Live Preview](01-05-live_preview)
 
 > # Chapter 2 - Variables and constants
-* ## [Typy Referencyjne i Typy Wartościowe](02-01-typy_referencyjne_i_wartosciowe)
-* ## [Mutowalność](02-02_mutowalnosc)
-* ## [Podstawowe typy oraz aliasy](02-03_definiowanie_typow_i_aliasow)
-* ## [Opóżnienie przypisania wartości do zmiennej oraz Optionale](02-04_opoznienie_przypisania_wartosci_oraz_opionale)
+* ## [Reference and Value Types](02-01-reference_value_types)
+* ## [Mutation](02-02_mutation)
+* ## [Basic Types and Aliases](02-03_basic_types_and_aliases)
+* ## [Late Initialization and Optionals](02-04_late_init_and_optionals)
 
-> # Chapter 3 - Znaki i Stringi
+> # Chapter 3 - Character & String
 * ## [Unicode](03-01_unicode)
-* ## [Stringi](03_02_stringi)
+* ## [String](03_02_string)
 
 > # Chapter 4 - Kolekcje i Krotki
 * ## [Tablice](04_01_Tablice)

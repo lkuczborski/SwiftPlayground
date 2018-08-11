@@ -7,12 +7,12 @@
         <page name='01-03-anatomy_of_the_playground'/>
         <page name='01-04-dependencies'/>
         <page name='01-05-live_preview'/>
-        <page name='02-01-typy_referencyjne_i_wartosciowe'/>
-        <page name='02-02_mutowalnosc'/>
-        <page name='02-03_definiowanie_typow_i_aliasow'/>
-        <page name='02-04_opoznienie_przypisania_wartosci_oraz_opionale'/>
+        <page name='02-01-reference_value_types'/>
+        <page name='02-02_mutation'/>
+        <page name='02-03_basic_types_and_aliases'/>
+        <page name='02-04_late_init_and_optionals'/>
         <page name='03-01_unicode'/>
-        <page name='03_02_stringi'/>
+        <page name='03_02_string'/>
         <page name='04_01_Tablice'/>
         <page name='04_02_Slowniki'/>
         <page name='04_03_Sety'/>

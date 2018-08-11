@@ -1,5 +1,5 @@
 //:[ToC](00-00_toc) | [Tips and Tricks](900-00-tips_and_tricks) | [Previous](@previous) | [Next](@next)
-//:> ## Mutowalność
+//:> ## Mutation
 
 /*:
 Dla kogoś kto przybył ze swiata Objective C mutowalność (czy też to czy dany obiekt może się zmieniać czy nie) jest powiązana z parami klas np. NAArray i NSMutableArray. W Swifcie jest dużo prościej. To czy coś jest zmienne czy nie zależy tylko od tego czy zostało zadeklaorowane przy użyciu słowa **_let_** czy **_var_**.
