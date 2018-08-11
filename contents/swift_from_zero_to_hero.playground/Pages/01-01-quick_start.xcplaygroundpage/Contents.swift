@@ -9,12 +9,16 @@ import Foundation
 let str = "Hello, playground"
 NSLog(str)
 print(str)
+dump(str)
+
+__
 
 let str1 = "Lorem"; let str2 = "ipsum"
 print(str1, str2)
 print(str1, str2, separator: " -💩- ", terminator: "💥")
 
-//: Playgroundy umożliwiają bardzo łatwe eksperymentowanie z kodem Swiftowym. Wystarczy coś napisać i automagicznie zostanie to skompilowane i uruchomione. Dodatkowo wyniki tych operacji można podglądać "na żywo" 👏🏻. Dodatkowo po kliknieciu prawym na takim podglądzie mamy 3 różne opcje do wyboru w zależności, która jest dla nas najbardziej interesująca 🍰
+//: Playgrounds allow easy experimentation with Swift. Just type some code and it will be compiled and run. As a cool bonus result of those operations will be displayed "live" 👏🏻. One can also chose how to see those results dempending on their contents 🍰
+
 for i in 0..<36 {
     sin(Double(i) * 100)
 }
@@ -32,7 +36,7 @@ for i in 0..<8 {
     sin(Double(i) * 100)
 }
 
-//: Jeżeli chcemy aby kod w palygroundzie wykonał sie raz jeszcze wystarczy, że zostanie naciśnięta ikonka **"play"** na dole edytora (przy konsoli) lub z menu *"Editor -> Execute Playground"*.
+//: If one want's to run the code again just hit **"play"** at the bottom of the editor or chose *"Editor -> Execute Playground"*.
 
 for _ in 0..<50 {
     arc4random_uniform(50)

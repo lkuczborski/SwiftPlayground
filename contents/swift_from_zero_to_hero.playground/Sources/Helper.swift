@@ -5,3 +5,6 @@ public func getBufferAddress<T>(_ array: [T]) -> String {
         return String(describing: buffer.baseAddress)
     }
 }
+
+
+public var __: Void { print("__") }
