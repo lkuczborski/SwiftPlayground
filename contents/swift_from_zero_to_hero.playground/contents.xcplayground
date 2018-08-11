@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<playground version='6.0' target-platform='ios' display-mode='rendered' last-migration='0800'>
+<playground version='6.0' target-platform='ios' display-mode='raw' last-migration='0800'>
     <pages>
         <page name='00-00_toc'/>
         <page name='01-01-quick_start'/>
-        <page name='01-02-formatowanie_dokumentacji'/>
-        <page name='01-03-anatomia_placu_zabaw'/>
-        <page name='01-04-zaleznosci'/>
-        <page name='01-05-wyswietlanie-wlasnego-widoku'/>
+        <page name='01-02-markdown'/>
+        <page name='01-03-anatomy_of_the_playground'/>
+        <page name='01-04-dependencies'/>
+        <page name='01-05-live_preview'/>
         <page name='02-01-typy_referencyjne_i_wartosciowe'/>
         <page name='02-02_mutowalnosc'/>
         <page name='02-03_definiowanie_typow_i_aliasow'/>

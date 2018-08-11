@@ -2,10 +2,10 @@
 # **Table of Contents**
 > # Chapter 1 - Playground
 * ## [Quick Start](01-01-quick_start)
-* ## [Formatowanie Dokumentacji](01-02-formatowanie_dokumentacji)
-* ## [Anatomia Placu Zabaw](01-03-anatomia_placu_zabaw)
-* ## [Dodawanie zależności](01-04-zaleznosci)
-* ## [Wyświetlanie własnego widoku](01-05-wyswietlanie-wlasnego-widoku)
+* ## [Markdown](01-02-markdown)
+* ## [Anatomy of the playground](01-03-anatomy_of_the_playground)
+* ## [Dependencies](01-04-dependencies)
+* ## [Live Preview](01-05-live_preview)
 
 > # Rozdział 2 - Zmienne i stałe
 * ## [Typy Referencyjne i Typy Wartościowe](02-01-typy_referencyjne_i_wartosciowe)
