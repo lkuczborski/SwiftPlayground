@@ -30,6 +30,6 @@ I personaly use it as a *glosarry* of language *how to*-s.
 
 ## Work in progress Swift version: **4.2**
 
-## Translation to english %: 0
+## Translation to english %: 0.1
 
 If you want to help (better examples, new info, fixing a typo, whatever) then just create a PR 😎
