@@ -17,11 +17,11 @@
 * ## [Unicode](03-01_unicode)
 * ## [String](03_02_string)
 
-> # Chapter 4 - Kolekcje i Krotki
-* ## [Tablice](04_01_Tablice)
-* ## [Słowniki](04_02_Slowniki)
-* ## [Sety](04_03_Sety)
-* ## [Tuplety/Krotki](04_04_Tuplety_Krotki)
+> # Chapter 4 - Collections adn Tuples
+* ## [Array](04_01_array)
+* ## [Dictionary](04_02_dictionary)
+* ## [Set](04_03_set)
+* ## [Tuple](04_04_tuple)
 
 > # Chapter 5 - Operatory
 * ## [Operatory (arytmetyczne, porównanie, rzutowanie, zakresy)](05_01_operatory)

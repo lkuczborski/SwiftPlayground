@@ -1,5 +1,5 @@
 //:[ToC](00-00_toc) | [Tips and Tricks](900-00-tips_and_tricks) | [Previous](@previous) | [Next](@next)
-//:> ## Sety (Sets)
+//:> ## Set
 
 //: ## Tworzenie
 var emoji = ["💩", "⚡️", "😎"]

@@ -1,5 +1,5 @@
 //:[ToC](00-00_toc) | [Tips and Tricks](900-00-tips_and_tricks) | [Previous](@previous) | [Next](@next)
-//:> ## Tuplety / Krotki (Tuples)
+//:> ## Tuple
 //: "Tuples are useful for temporary groups of related values. (…) If your data structure is likely to persist beyond a temporary scope, model it as a class or structure (…) "
 //:         -- Dokumentacja
 

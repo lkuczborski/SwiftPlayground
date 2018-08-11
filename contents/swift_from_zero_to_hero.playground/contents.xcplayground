@@ -13,10 +13,10 @@
         <page name='02-04_late_init_and_optionals'/>
         <page name='03-01_unicode'/>
         <page name='03_02_string'/>
-        <page name='04_01_Tablice'/>
-        <page name='04_02_Slowniki'/>
-        <page name='04_03_Sety'/>
-        <page name='04_04_Tuplety_Krotki'/>
+        <page name='04_01_array'/>
+        <page name='04_02_dictionary'/>
+        <page name='04_03_set'/>
+        <page name='04_04_tuple'/>
         <page name='05_01_operatory'/>
         <page name='06_01_for_for_in'/>
         <page name='06_02_while_if_else'/>
